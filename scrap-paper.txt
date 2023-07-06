@@ -1,0 +1,42 @@
+// node modules:
+
+function outputChau(name) {
+    console.log('Chau ' + name);
+}
+
+// outputChau('Bella');
+console.log(window);
+
+setTimeout();
+clearTimeout();
+
+setInterval(); // repeatedly call function after a given delay
+clearInterval();
+
+window.console.log // aka console.log as is the methods above
+var message = '';
+
+var outputChau = function() {
+
+}
+
+window.outputChau();
+
+// node documentation highlights
+/*
+ * File System
+ * HTTP
+ * OS
+ * Path
+ * Process
+ * Query Strings builds HTTP services
+ * Stream
+ */
+
+// keyboard shortcuts:
+// f2 renames functions  
+
+// create react app:
+/* npm create vite@latest or alternatively specify the version
+ *  
+ */
